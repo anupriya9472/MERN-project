@@ -80,7 +80,7 @@ const Contact = () => {
                 <i className="zmdi zmdi-smartphone-android material-icons-size"></i>
                 <div className='contact-info-content'>
                   <div className='contact-info-title'>Phone</div>
-                  <div className='contact-info-text'>+91 62052 47743</div>
+                  <div className='contact-info-text'>+91 22222 11111</div>
                 </div>
               </div>
 
